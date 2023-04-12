@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Generators"
+  site-url: "https://yuval6957.github.io/Generators"
+  description: "Learning about generators deep learning models"
+  repo-branch: main
+  repo-url: "https://github.com/yuval6957/Generators"
