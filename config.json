@@ -1,0 +1,8 @@
+{
+    "path":{
+        "models":"/home/nvme/Generators/models",
+        "output":"/home/nvme/Generators/outputs"
+        },
+    "model_format":"{}_{}_v{}_s{}.pth",
+    "platform":"myserver"
+}
