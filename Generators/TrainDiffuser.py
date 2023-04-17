@@ -21,3 +21,4 @@ from diffusers import DDPMPipeline
 from accelerate import Accelerator
 from accelerate import notebook_launcher
 from huggingface_hub import HfFolder, Repository, whoami
+from datasets import load_dataset
